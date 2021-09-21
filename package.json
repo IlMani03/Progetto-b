@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "express": "^4.17.1",
+    "git": "^0.1.5"
+  },
+  "name": "stefanini-app",
+  "version": "1.0.0",
+  "description": "stefa_app",
+  "main": "srv.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node srv.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "node": "15.8.0"
+  }
+}
